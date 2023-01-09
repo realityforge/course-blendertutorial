@@ -47,3 +47,19 @@ This section focused on creating a "modular dungeon kit" and assembling a primit
 </tr>
 </tbody>
 </table>
+
+# Section 3: Low Poly Dinosaur Scene
+
+This section focused on creating a low poly dinosaur and placing them in a scene.
+
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<figure>
+<img src="Section3/img/Dinosaur.png">
+</figure>
+</td>
+</tr>
+</tbody>
+</table>
