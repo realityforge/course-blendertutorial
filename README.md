@@ -63,3 +63,12 @@ This section focused on creating a low poly dinosaur and placing them in a scene
 </tr>
 </tbody>
 </table>
+
+# Section 4: SpitFire flyby
+
+This section focused on basics of UV mapping with a low poly plane and a city scene. A simple fly-by animation was added.
+
+https://user-images.githubusercontent.com/11840/214720612-63dac1df-e3ec-4c21-a16b-5ec4b6f22621.mp4
+
+
+
