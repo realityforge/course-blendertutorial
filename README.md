@@ -70,5 +70,8 @@ This section focused on basics of UV mapping with a low poly plane and a city sc
 
 https://user-images.githubusercontent.com/11840/214720612-63dac1df-e3ec-4c21-a16b-5ec4b6f22621.mp4
 
+# Section 5: Mr Tv-Head Walking
 
+This section focused on basics of rigging and animation and produced a simple walk cycle for a character.
 
+https://user-images.githubusercontent.com/11840/215051973-48d00a44-385c-4f6a-a73e-8f5de6136d67.mp4
