@@ -75,3 +75,33 @@ https://user-images.githubusercontent.com/11840/214720612-63dac1df-e3ec-4c21-a16
 This section focused on basics of rigging and animation and produced a simple walk cycle for a character.
 
 https://user-images.githubusercontent.com/11840/215051973-48d00a44-385c-4f6a-a73e-8f5de6136d67.mp4
+
+# Section 6: Sculpting a Monstrous Man
+
+This section focused on basics of sculpting and works through the sculpting of a bust of an evil man-like being.
+
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<figure>
+<img src="Section6/img/InEditor.png">
+</figure>
+</td>
+</tr>
+<tr>
+<td>
+<figure>
+<img src="Section6/img/Front.png">
+</figure>
+</td>
+</tr>
+<tr>
+<td>
+<figure>
+<img src="Section6/img/Side.png">
+</figure>
+</td>
+</tr>
+</tbody>
+</table>
